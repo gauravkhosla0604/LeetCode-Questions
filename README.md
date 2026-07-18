@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0355-design-twitter) |
 ## Linked List
 |  |
@@ -12,9 +13,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0355-design-twitter) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0355-design-twitter) |
+## String
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
