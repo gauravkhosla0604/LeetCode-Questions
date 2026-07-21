@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
 |  |
