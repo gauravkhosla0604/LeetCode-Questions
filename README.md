@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0086-partition-list](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0086-partition-list) |
 | [0355-design-twitter](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0355-design-twitter) |
 ## Design
 |  |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
