@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0733-flood-fill) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0733-flood-fill) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0118-pascals-triangle) |
+| [0200-number-of-islands](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0733-flood-fill](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0994-rotting-oranges) |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
