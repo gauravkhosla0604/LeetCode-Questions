@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0355-design-twitter) |
+| [0743-network-delay-time](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0743-network-delay-time) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0994-rotting-oranges) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -140,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0994-rotting-oranges) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
