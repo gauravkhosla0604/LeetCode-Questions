@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0118-pascals-triangle) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Matrix
 |  |
 | ------- |
@@ -155,11 +158,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1514-path-with-maximum-probability) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1514-path-with-maximum-probability) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
