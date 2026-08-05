@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [1514-path-with-maximum-probability](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [1514-path-with-maximum-probability](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,4 +160,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1514-path-with-maximum-probability) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
