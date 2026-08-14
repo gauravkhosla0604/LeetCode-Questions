@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
