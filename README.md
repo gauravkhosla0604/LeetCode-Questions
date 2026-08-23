@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0279-perfect-squares) |
 ## Tree
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0542-01-matrix) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0518-coin-change-ii) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0518-coin-change-ii) |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0518-coin-change-ii) |
 ## Longest Common Subsequence
