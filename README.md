@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0542-01-matrix) |
+| [0682-baseball-game](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -308,4 +309,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
