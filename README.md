@@ -51,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0279-perfect-squares) |
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0112-path-sum) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0112-path-sum) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0213-house-robber-ii) |
@@ -331,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0044-wildcard-matching) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
