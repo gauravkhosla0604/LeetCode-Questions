@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0279-perfect-squares) |
 ## Tree
@@ -156,10 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0086-partition-list) |
+| [0189-rotate-array](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0118-pascals-triangle) |
+| [0189-rotate-array](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0213-house-robber-ii) |
