@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0072-edit-distance) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 ## Two Pointers
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0072-edit-distance) |
@@ -359,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
