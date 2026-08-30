@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1514-path-with-maximum-probability](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1514-path-with-maximum-probability) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Dynamic Programming
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Binary Search
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0268-missing-number) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Topological Sort
 |  |
 | ------- |
