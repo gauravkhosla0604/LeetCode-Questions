@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [0392-is-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0494-target-sum) |
