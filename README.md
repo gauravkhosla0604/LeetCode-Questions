@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0355-design-twitter](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0355-design-twitter) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0198-house-robber) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0542-01-matrix) |
