@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0279-perfect-squares) |
+| [3875-construct-uniform-parity-array-i](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Tree
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1514-path-with-maximum-probability) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1584-min-cost-to-connect-all-points) |
+| [3875-construct-uniform-parity-array-i](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
