@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0326-power-of-three) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Tree
 |  |
