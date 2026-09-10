@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 ## Two Pointers
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0036-valid-sudoku) |
+| [0078-subsets](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0198-house-robber) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0268-missing-number) |
 ## Sorting
