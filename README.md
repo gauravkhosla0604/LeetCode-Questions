@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0078-subsets](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0200-number-of-islands) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0279-perfect-squares) |
