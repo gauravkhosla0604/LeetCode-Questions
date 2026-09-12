@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0189-rotate-array) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0778-swim-in-rising-water) |
@@ -428,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
