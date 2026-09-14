@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0494-target-sum) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Topological Sort
 |  |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0044-wildcard-matching) |
+| [0435-non-overlapping-intervals](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 ## Binary Search Tree
 |  |
 | ------- |
