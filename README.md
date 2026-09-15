@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0097-interleaving-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [0257-binary-tree-paths](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0684-redundant-connection) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
 |  |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 ## Two Pointers
