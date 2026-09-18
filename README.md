@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
+| [0647-palindromic-substrings](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1143-longest-common-subsequence) |
 ## Trie
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [0647-palindromic-substrings](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
 ## Array
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0542-01-matrix) |
+| [0647-palindromic-substrings](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1039-minimum-score-triangulation-of-polygon) |
