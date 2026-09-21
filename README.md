@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0207-course-schedule) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0207-course-schedule) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0684-redundant-connection) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0118-pascals-triangle) |
+| [0130-surrounded-regions](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0198-house-robber) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0036-valid-sudoku) |
+| [0130-surrounded-regions](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0542-01-matrix) |
