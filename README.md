@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0097-interleaving-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0118-pascals-triangle) |
