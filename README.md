@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
