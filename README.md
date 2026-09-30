@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0257-binary-tree-paths](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0684-redundant-connection) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0322-coin-change) |
+| [0404-sum-of-left-leaves](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0547-number-of-provinces) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0404-sum-of-left-leaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
 |  |
