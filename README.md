@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0872-leaf-similar-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0872-leaf-similar-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0872-leaf-similar-trees) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1254-number-of-closed-islands](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0872-leaf-similar-trees) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
 |  |
