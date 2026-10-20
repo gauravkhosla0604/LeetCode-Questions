@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0355-design-twitter) |
+| [0424-longest-repeating-character-replacement](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Linked List
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 ## String Matching
 |  |
 | ------- |
