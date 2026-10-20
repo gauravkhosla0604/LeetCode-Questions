@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0355-design-twitter) |
 ## Design
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0044-wildcard-matching) |
+| [0143-reorder-list](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0326-power-of-three) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0344-reverse-string) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0682-baseball-game](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
