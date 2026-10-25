@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0872-leaf-similar-trees) |
+| [0993-cousins-in-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [0872-leaf-similar-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0872-leaf-similar-trees) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0993-cousins-in-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1254-number-of-closed-islands](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0797-all-paths-from-source-to-target) |
+| [0993-cousins-in-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1254-number-of-closed-islands) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0872-leaf-similar-trees) |
+| [0993-cousins-in-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
