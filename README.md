@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Triangulation
 |  |
 | ------- |
