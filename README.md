@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0371-sum-of-two-integers) |
+| [0976-largest-perimeter-triangle](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [3870-count-commas-in-range](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Tree
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0778-swim-in-rising-water) |
+| [0976-largest-perimeter-triangle](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [0994-rotting-oranges](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0994-rotting-oranges) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1049-last-stone-weight-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1049-last-stone-weight-ii) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
+| [0976-largest-perimeter-triangle](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Topological Sort
 |  |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -510,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Polygons
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 ## Bracket Sequences
 |  |
@@ -570,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0493-reverse-pairs) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
