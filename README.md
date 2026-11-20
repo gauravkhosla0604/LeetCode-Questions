@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0355-design-twitter](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0355-design-twitter) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gauravkhosla0604/LeetCode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
